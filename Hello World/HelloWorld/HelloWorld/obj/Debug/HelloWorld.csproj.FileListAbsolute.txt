@@ -1,0 +1,8 @@
+F:\Desenvolvimento\CSharp\Hello World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+F:\Desenvolvimento\CSharp\Hello World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+F:\Desenvolvimento\CSharp\Hello World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+F:\Desenvolvimento\CSharp\Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+F:\Desenvolvimento\CSharp\Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+F:\Desenvolvimento\CSharp\Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+F:\Desenvolvimento\CSharp\Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+F:\Desenvolvimento\CSharp\Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

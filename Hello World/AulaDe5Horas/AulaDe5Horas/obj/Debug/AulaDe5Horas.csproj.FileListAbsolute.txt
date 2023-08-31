@@ -1,0 +1,8 @@
+F:\Desenvolvimento\CSharp\Hello World\AulaDe5Horas\AulaDe5Horas\bin\Debug\AulaDe5Horas.exe.config
+F:\Desenvolvimento\CSharp\Hello World\AulaDe5Horas\AulaDe5Horas\bin\Debug\AulaDe5Horas.exe
+F:\Desenvolvimento\CSharp\Hello World\AulaDe5Horas\AulaDe5Horas\bin\Debug\AulaDe5Horas.pdb
+F:\Desenvolvimento\CSharp\Hello World\AulaDe5Horas\AulaDe5Horas\obj\Debug\AulaDe5Horas.csproj.AssemblyReference.cache
+F:\Desenvolvimento\CSharp\Hello World\AulaDe5Horas\AulaDe5Horas\obj\Debug\AulaDe5Horas.csproj.SuggestedBindingRedirects.cache
+F:\Desenvolvimento\CSharp\Hello World\AulaDe5Horas\AulaDe5Horas\obj\Debug\AulaDe5Horas.csproj.CoreCompileInputs.cache
+F:\Desenvolvimento\CSharp\Hello World\AulaDe5Horas\AulaDe5Horas\obj\Debug\AulaDe5Horas.exe
+F:\Desenvolvimento\CSharp\Hello World\AulaDe5Horas\AulaDe5Horas\obj\Debug\AulaDe5Horas.pdb
