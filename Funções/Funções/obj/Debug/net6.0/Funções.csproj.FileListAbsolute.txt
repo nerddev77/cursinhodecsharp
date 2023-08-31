@@ -1,0 +1,15 @@
+F:\Desenvolvimento\CSharp\Funções\Funções\bin\Debug\net6.0\Funções.exe
+F:\Desenvolvimento\CSharp\Funções\Funções\bin\Debug\net6.0\Funções.deps.json
+F:\Desenvolvimento\CSharp\Funções\Funções\bin\Debug\net6.0\Funções.runtimeconfig.json
+F:\Desenvolvimento\CSharp\Funções\Funções\bin\Debug\net6.0\Funções.dll
+F:\Desenvolvimento\CSharp\Funções\Funções\bin\Debug\net6.0\Funções.pdb
+F:\Desenvolvimento\CSharp\Funções\Funções\obj\Debug\net6.0\Funções.csproj.AssemblyReference.cache
+F:\Desenvolvimento\CSharp\Funções\Funções\obj\Debug\net6.0\Funções.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desenvolvimento\CSharp\Funções\Funções\obj\Debug\net6.0\Funções.AssemblyInfoInputs.cache
+F:\Desenvolvimento\CSharp\Funções\Funções\obj\Debug\net6.0\Funções.AssemblyInfo.cs
+F:\Desenvolvimento\CSharp\Funções\Funções\obj\Debug\net6.0\Funções.csproj.CoreCompileInputs.cache
+F:\Desenvolvimento\CSharp\Funções\Funções\obj\Debug\net6.0\Funções.dll
+F:\Desenvolvimento\CSharp\Funções\Funções\obj\Debug\net6.0\refint\Funções.dll
+F:\Desenvolvimento\CSharp\Funções\Funções\obj\Debug\net6.0\Funções.pdb
+F:\Desenvolvimento\CSharp\Funções\Funções\obj\Debug\net6.0\Funções.genruntimeconfig.cache
+F:\Desenvolvimento\CSharp\Funções\Funções\obj\Debug\net6.0\ref\Funções.dll
