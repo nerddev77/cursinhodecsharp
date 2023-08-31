@@ -1,0 +1,15 @@
+F:\Desenvolvimento\CSharp\While\While\bin\Debug\net6.0\While.exe
+F:\Desenvolvimento\CSharp\While\While\bin\Debug\net6.0\While.deps.json
+F:\Desenvolvimento\CSharp\While\While\bin\Debug\net6.0\While.runtimeconfig.json
+F:\Desenvolvimento\CSharp\While\While\bin\Debug\net6.0\While.dll
+F:\Desenvolvimento\CSharp\While\While\bin\Debug\net6.0\While.pdb
+F:\Desenvolvimento\CSharp\While\While\obj\Debug\net6.0\While.csproj.AssemblyReference.cache
+F:\Desenvolvimento\CSharp\While\While\obj\Debug\net6.0\While.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desenvolvimento\CSharp\While\While\obj\Debug\net6.0\While.AssemblyInfoInputs.cache
+F:\Desenvolvimento\CSharp\While\While\obj\Debug\net6.0\While.AssemblyInfo.cs
+F:\Desenvolvimento\CSharp\While\While\obj\Debug\net6.0\While.csproj.CoreCompileInputs.cache
+F:\Desenvolvimento\CSharp\While\While\obj\Debug\net6.0\While.dll
+F:\Desenvolvimento\CSharp\While\While\obj\Debug\net6.0\refint\While.dll
+F:\Desenvolvimento\CSharp\While\While\obj\Debug\net6.0\While.pdb
+F:\Desenvolvimento\CSharp\While\While\obj\Debug\net6.0\While.genruntimeconfig.cache
+F:\Desenvolvimento\CSharp\While\While\obj\Debug\net6.0\ref\While.dll
