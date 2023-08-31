@@ -1,0 +1,15 @@
+F:\Desenvolvimento\CSharp\Enum\Enum\bin\Debug\net6.0\Enum.exe
+F:\Desenvolvimento\CSharp\Enum\Enum\bin\Debug\net6.0\Enum.deps.json
+F:\Desenvolvimento\CSharp\Enum\Enum\bin\Debug\net6.0\Enum.runtimeconfig.json
+F:\Desenvolvimento\CSharp\Enum\Enum\bin\Debug\net6.0\Enum.dll
+F:\Desenvolvimento\CSharp\Enum\Enum\bin\Debug\net6.0\Enum.pdb
+F:\Desenvolvimento\CSharp\Enum\Enum\obj\Debug\net6.0\Enum.csproj.AssemblyReference.cache
+F:\Desenvolvimento\CSharp\Enum\Enum\obj\Debug\net6.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desenvolvimento\CSharp\Enum\Enum\obj\Debug\net6.0\Enum.AssemblyInfoInputs.cache
+F:\Desenvolvimento\CSharp\Enum\Enum\obj\Debug\net6.0\Enum.AssemblyInfo.cs
+F:\Desenvolvimento\CSharp\Enum\Enum\obj\Debug\net6.0\Enum.csproj.CoreCompileInputs.cache
+F:\Desenvolvimento\CSharp\Enum\Enum\obj\Debug\net6.0\Enum.dll
+F:\Desenvolvimento\CSharp\Enum\Enum\obj\Debug\net6.0\refint\Enum.dll
+F:\Desenvolvimento\CSharp\Enum\Enum\obj\Debug\net6.0\Enum.pdb
+F:\Desenvolvimento\CSharp\Enum\Enum\obj\Debug\net6.0\Enum.genruntimeconfig.cache
+F:\Desenvolvimento\CSharp\Enum\Enum\obj\Debug\net6.0\ref\Enum.dll
